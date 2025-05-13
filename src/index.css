@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body{
+    background-color: aqua;
+     font-family: 'Dancing Script', cursive;
+}
+
+
